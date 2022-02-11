@@ -13,4 +13,8 @@ Here are some ideas to get you started
 - ⚡ Fun fact: ...
 -->
 
-### 🔭 I’m currently working on professionalizing my GitHub
+### I’m a software developer from Chicago, and I'm currently working on personal projects!
+
+##### My next project will be something related to gathering meta data in a game I love to play. In the meantime, I have a lot of other projects I've worked on that you can check out
+
+
